@@ -15,14 +15,16 @@ A Python script to crack password-protected ZIP and RAR files using a dictionary
 ## 📌 Requirements
 Ensure you have the following installed:
 
-🔹 Python 3+  
-🔹 `tqdm` (for progress bar)  
-🔹 `rarfile` (for RAR support)  
-🔹 `unrar` (must be installed and in system PATH for RAR extraction)  
+🔹 Python 3+
+🔹 tqdm (for progress bar)
+🔹 rarfile (for RAR support)
+🔹 unrar (must be installed and in system PATH for RAR extraction)
+🔹 colorama (for colored terminal output)
+🔹 pyfiglet (for ASCII banners)
 
 ### 📥 Install dependencies:
 ```bash
-pip install tqdm rarfile
+pip install tqdm rarfile colorama pyfiglet
 ```
 
 ---
