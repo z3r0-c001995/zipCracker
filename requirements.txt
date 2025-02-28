@@ -1,2 +1,4 @@
 tqdm
 rarfile
+colorama
+pyfiglet
